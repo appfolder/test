@@ -1,4 +1,5 @@
 <?php
+set_time_limit(0);
 /**
  * PHP File Manager (2017-08-07)
  * https://github.com/alexantr/filemanager
